@@ -7,7 +7,7 @@ publishdir = "dist"
     authorname = "Radu Fericean"
     githubuser = "rif"
 	sidebartitle = "saroswe"
-	sidebartagline = "Viitorul azi!"
+	sidebartagline = "Evaluarea potentialului productiv, de fitoremediere si adaptabilitate la stresul hidric, a unor genotipuri de Salix sp., in statiuni improprii culturilor agricole!"
 [[menu.main]]
     name = "Stiri"
     url = "/post"
