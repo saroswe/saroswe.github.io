@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parteneri on saroswe</title>
-    <link>http://localhost:1313/tags/parteneri/</link>
+    <link>http://www.saroswe.ro/tags/parteneri/</link>
     <description>Recent content in Parteneri on saroswe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     <lastBuildDate>Sat, 29 Nov 2014 10:51:54 EET</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/parteneri/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.saroswe.ro/tags/parteneri/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>parteneri</title>
-      <link>http://localhost:1313/parteneri/</link>
+      <link>http://www.saroswe.ro/parteneri/</link>
       <pubDate>Sat, 29 Nov 2014 10:51:54 EET</pubDate>
       
-      <guid>http://localhost:1313/parteneri/</guid>
+      <guid>http://www.saroswe.ro/parteneri/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/images/parteneri.png&#34; alt=&#34;parteneri&#34; width = &#34;70%&#34;/&gt;&lt;/p&gt;
 
 &lt;table&gt;
