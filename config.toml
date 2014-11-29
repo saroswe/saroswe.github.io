@@ -1,0 +1,17 @@
+baseurl = "http://www.saroswe.ro"
+languageCode = "en-us"
+title = "saroswe"
+theme = "redlounge"
+publishdir = "dist"
+[params]
+    authorname = "Radu Fericean"
+    githubuser = "rif"
+	sidebartitle = "saroswe"
+	sidebartagline = "Viitorul azi!"
+[[menu.main]]
+    name = "Stiri"
+    url = "/post"
+[[menu.footer]]
+    name = "Stiri"
+    url = "/post"
+
