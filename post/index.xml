@@ -17,7 +17,9 @@
       <pubDate>Fri, 28 Nov 2014 22:59:13 EET</pubDate>
       
       <guid>http://localhost:1313/post/second/</guid>
-      <description>&lt;p&gt;#Second post&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;second-post:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Second post&lt;/h2&gt;
 
 &lt;p&gt;with completely different content&lt;/p&gt;
 </description>
@@ -31,7 +33,7 @@
       <guid>http://localhost:1313/post/first/</guid>
       <description>
 
-&lt;h1 id=&#34;first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;First post&lt;/h1&gt;
+&lt;h2 id=&#34;first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;First post&lt;/h2&gt;
 
 &lt;p&gt;with some content&lt;/p&gt;
 </description>

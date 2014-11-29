@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/second/</loc>
+    <lastmod>2014-11-28T22:59:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/first/</loc>
+    <lastmod>2014-11-28T22:59:08+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/descriere/</loc>
     <lastmod>2014-11-28T22:04:43+02:00</lastmod>
   </url>
