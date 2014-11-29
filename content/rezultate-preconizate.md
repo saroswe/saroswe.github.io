@@ -1,7 +1,7 @@
 +++
-Categories = ["Development", "GoLang"]
+Categories = ["rezultate"]
+Tags = ["rezultate"]
 Description = ""
-Tags = ["Development", "golang"]
 date = "2014-11-29T10:55:35+02:00"
 menu = "main"
 title = "rezultate preconizate"

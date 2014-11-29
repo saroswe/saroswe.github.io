@@ -1,7 +1,7 @@
 +++
 date = "2014-11-28T22:04:43+02:00"
 title = "descriere"
-menu = "main"
+menu = ["main", "footer"]
 +++
 
 ## Evaluarea potenţialului productiv, de fitoremediere şi adaptabilitate la stresul hidric, a unor genotipuri de Salix, în staţiuni improprii culturilor agricole - SAROSWE

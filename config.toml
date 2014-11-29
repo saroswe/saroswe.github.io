@@ -5,13 +5,11 @@ theme = "redlounge"
 publishdir = "dist"
 [params]
     authorname = "Radu Fericean"
-    githubuser = "rif"
+    githubuser = "saroswe"
+    copyright = "saroswe"
 	sidebartitle = "saroswe"
 	sidebartagline = "Evaluarea potentialului productiv, de fitoremediere si adaptabilitate la stresul hidric, a unor genotipuri de Salix sp., in statiuni improprii culturilor agricole!"
 [[menu.main]]
-    name = "Stiri"
-    url = "/post"
-[[menu.footer]]
     name = "Stiri"
     url = "/post"
 
