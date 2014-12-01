@@ -5,6 +5,7 @@ Description = ""
 date = "2014-11-29T10:55:35+02:00"
 menu = "main"
 title = "rezultate preconizate"
+nodate = true
 +++
 
 ## PACHETE DE LUCRU SI REZULTATE PRECONIZATE

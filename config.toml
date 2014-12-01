@@ -9,7 +9,8 @@ publishdir = "dist"
     copyright = "saroswe"
 	sidebartitle = "saroswe"
 	sidebartagline = "Evaluarea potentialului productiv, de fitoremediere si adaptabilitate la stresul hidric, a unor genotipuri de Salix sp., in statiuni improprii culturilor agricole!"
+
 [[menu.main]]
     name = "Stiri"
-    url = "/post"
+    url = "/post"    
 
