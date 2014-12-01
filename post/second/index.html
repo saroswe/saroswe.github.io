@@ -16,7 +16,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:url" content="http://www.saroswe.ro/post/second/" />
+<meta property="og:url" content="http://localhost:1313/post/second/" />
 
 
   
@@ -28,7 +28,7 @@
   
   
 
-  <link rel="stylesheet" href="http://www.saroswe.ro/css/redlounge.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/redlounge.css">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,100,700,300,500,600,800' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
@@ -49,7 +49,8 @@
 
   
 
-  
+  <link rel="stylesheet" href="/css/main.css">
+
 </head>
 
 <body>
@@ -65,17 +66,19 @@
 
     <nav class="nav">
       <ul class="nav-list">
-        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://www.saroswe.ro">Home</a></li>
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313">Home</a></li>
         
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://www.saroswe.ro/post/">Stiri</a></li>
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/post/"></a></li>
         
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://www.saroswe.ro/descriere/">descriere</a></li>
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/descriere/">descriere</a></li>
         
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://www.saroswe.ro/diseminare/">disemniare</a></li>
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/diseminare/">disemniare</a></li>
         
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://www.saroswe.ro/parteneri/">parteneri</a></li>
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/parteneri/">parteneri</a></li>
         
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://www.saroswe.ro/rezultate-preconizate/">rezultate preconizate</a></li>
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/rezultate-preconizate/">rezultate preconizate</a></li>
+        
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/post/workshop/">workshop</a></li>
         
       </ul>
     </nav>
@@ -153,7 +156,7 @@
 					
 					<div class="paging-older">
 						<span class="dark-red">Older</span><span class="decorative-marker">//</span>
-			            <a class="paging-link" href="/post/first/">first</a>
+			            <a class="paging-link" href="/descriere/">descriere</a>
 		            </div>
 		            
 	            </div>
@@ -180,5 +183,8 @@
 	
 
   
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

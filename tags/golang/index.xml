@@ -8,43 +8,16 @@
     <language>en-us</language>
     
     
-    <lastBuildDate>Sat, 29 Nov 2014 10:51:54 EET</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2014 19:01:50 EET</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>parteneri</title>
-      <link>http://localhost:1313/parteneri/</link>
-      <pubDate>Sat, 29 Nov 2014 10:51:54 EET</pubDate>
+      <title>workshop</title>
+      <link>http://localhost:1313/post/workshop/</link>
+      <pubDate>Mon, 01 Dec 2014 19:01:50 EET</pubDate>
       
-      <guid>http://localhost:1313/parteneri/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/parteneri.png&#34; alt=&#34;parteneri&#34; width = &#34;70%&#34;/&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Coordonator&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Director Proiect: Prof. univ. dr. CORNEANU Mihaela&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Partener 1&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;Responsabil Partener 1: HOLLERBACH Wilhelm&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Partener 2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;Responsabil Partener 2: Prof. univ. dr. SOARE Marin&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Partener 3&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;Responsabil Partener 3: CS I dr. ing. NETOIU Constantin&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <guid>http://localhost:1313/post/workshop/</guid>
+      <description></description>
     </item>
     
   </channel>
