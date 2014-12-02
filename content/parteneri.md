@@ -28,7 +28,7 @@ nodate = true
             </td>
             <td>
                 <h4>Responsabil Partener 1: HOLLERBACH Wilhelm</h4>
-                <a href="/echipe/partener1">Echipa Partener 1</a>
+                <a href="/echipe/partener-1">Echipa Partener 1</a>
             </td>
         </tr>
 
@@ -39,7 +39,7 @@ nodate = true
             </td>
             <td>
                 <h4>Responsabil Partener 2: Prof. univ. dr. SOARE Marin</h4>
-                <a href="/echipe/partener2">Echipa Partener 2</a>
+                <a href="/echipe/partener-2">Echipa Partener 2</a>
             </td>
         </tr>
         <tr>
@@ -49,7 +49,7 @@ nodate = true
             </td>
             <td>
                 <h4>Responsabil Partener 3: CS I dr. ing. NETOIU Constantin</h4>
-                <a href="/echipe/partener3">Echipa Partener 3</a>
+                <a href="/echipe/partener-3">Echipa Partener 3</a>
             </td>
         </tr>
     </tbody>
