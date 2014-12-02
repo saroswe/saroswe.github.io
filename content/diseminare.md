@@ -1,9 +1,9 @@
 +++
 Description = ""
-Categories = ["disiminare"]
-Tags = ["disiminare"]
+Categories = ["diseminare"]
+Tags = ["diseminare"]
 date = "2014-11-29T10:55:35+02:00"
-title = "disemniare"
+title = "diseminare"
 nodate = true
 [menu.main]
     weight =  20
