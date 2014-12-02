@@ -1,7 +1,7 @@
 +++
-Categories = ["workshop", "disemniare"]
+Categories = ["workshop", "diseminare"]
 Description = ""
-Tags = ["workshop", "foto", "disemniare"]
+Tags = ["workshop", "foto", "diseminare"]
 date = "2014-12-01T19:01:50+02:00"
 title = "WORKSHOP DE DESCHIDERE Proiect Colaborativ de Cercetare Aplicativă 111/2014 (2014-2016)"
 lightbox = true
