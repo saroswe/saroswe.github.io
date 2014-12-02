@@ -30,5 +30,5 @@ Lucrarile predate pentru publicare in
 
 * [WORKSHOP DE DESCHIDERE Proiect Colaborativ de Cercetare Aplicativă 111/2014 (2014-2016) – Evaluarea potenţialului productiv, de fitoremediere şi adaptabilitate la stresul hidric, a unor genotipur ide Salix sp., în staţiuni improprii culturilor agricole  Acronim“SAROSWE”   Vineri, 14.11.2014, ora11 AULA BUIA, Facultatea de Agricultura si Horticultura, Universitatea din Craiova](/lucrari/prezentare SAROSWE workshop.pdf)
 
- * [Prezentarea proiectului](/lucrari/PREZENTAREA PROIECTULUI.doc)
+ * [Prezentarea proiectului](/lucrari/prezentare SAROSWE workshop.pdf)
  * [Galerie foto workshop](/lucrari/galerie foto workshop.ppt)

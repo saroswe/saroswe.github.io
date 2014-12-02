@@ -20,3 +20,5 @@ lightbox = true
 <a href="/photos/workshop/100000000000089800000672BED0E11C.jpg" title="" data-lightbox="set1"> <img src="/photos/workshop/100000000000089800000672BED0E11C_thumb.jpg" alt=""></a>
 <a href="/photos/workshop/100000000000089800000672E16E445E.jpg" title="" data-lightbox="set1"> <img src="/photos/workshop/100000000000089800000672E16E445E_thumb.jpg" alt=""></a>
 <a href="/photos/workshop/100000000000089800000672FAC99DFD.jpg" title="" data-lightbox="set1"> <img src="/photos/workshop/100000000000089800000672FAC99DFD_thumb.jpg" alt=""></a>
+
+<h4><a href="/lucrari/prezentare SAROSWE workshop.pdf">Prezentare SAROWSE</a></h4>
