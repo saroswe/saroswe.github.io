@@ -26,11 +26,11 @@ nodate = true
  * [Hernea Cornelia, Trava Ion-Danut, Borlea Gheorghe Florian -  Biomass production of some swedish willow hybrids on the west of Romania. A case study. –poster](/lucrari/2015/POSTER Hernea_Salix_FHS_2015.pdf)
 
 2. The 14th International Symposium 'Prospects for the 3rd Millennium Agriculture', September 24th-26th 2015, Cluj – Napoca, Romania
- * [Mihaela CORNEANU, Sorina - Domnica POPESCU* and Cornelia HERNEA - the molecular polymorphism evaluation in Salix sp. Romanian accessions – preliminary results. – poster](/lucrari/2015/poster USAMV Cluj 2015.pdf
+ * Mihaela CORNEANU, Sorina - Domnica POPESCU* and Cornelia HERNEA - [the molecular polymorphism evaluation in Salix sp. Romanian accessions – preliminary results. – poster](/lucrari/2015/poster USAMV Cluj 2015.pdf
  * Cornelia HERNEA, Willhelm HOLLERBACH, Danut TRAVA, Mihaela CORNEANU - [The Behaviour for SRC Willow Inger in Experimental Trial Ghilad, Romania - oral](http://journals.usamvcluj.ro/index.php/horticulture/article/view/11657)
 
 3. International Scientific Symposium SUSTAINABLE DEVELOPMENT IN AGRICULTURE AND HORTICULTURE-Third edition-12-13 November 2015, Craiova, Romania
- * [Corneanu Mihaela , Hernea Cornelia , Neţoiu Constantin , Sarac Ioan , Posta Daniela Sabina -Preliminary research concerning the adaptative capacity and growth for different native and non-native willows in the Western Plain of Romania – poster](/lucrari/2015/POSTER MC_HC Craiova.pdf)
+ * Corneanu Mihaela , Hernea Cornelia , Neţoiu Constantin , Sarac Ioan , Posta Daniela Sabina - [Preliminary research concerning the adaptative capacity and growth for different native and non-native willows in the Western Plain of Romania – poster](/lucrari/2015/POSTER MC_HC Craiova.pdf)
 
 #### A2.11 D.2 - Participare la manifestari tehnico-stiintifice din domeniii specifice proiectului (mese rotunde, workshopuri, simpozioane nationale /internationale, targuri nationale/ internationale)
 
@@ -38,7 +38,7 @@ nodate = true
 
 [Premiu: Medalia de bronz](/lucrari/2015/diploma medalie bronz EUROINVENT 2015.pdf)
 
-* [Corneanu Mihaela, Hernea Cornelia, Hollerbach William, Soare Marin, Neţoiu Constantin -  Project PNII 111/2014: Evaluation of the productive potential, the capacity of phytoremediation and adaptability to the hydric stress of some Salix genotypes, in improper stations for agricultural crops – SAROSWE](/lucrari/2015/SAROSWE poster EUROINVENT 2015 Iasi.pdf)
+* Corneanu Mihaela, Hernea Cornelia, Hollerbach William, Soare Marin, Neţoiu Constantin - [Project PNII 111/2014: Evaluation of the productive potential, the capacity of phytoremediation and adaptability to the hydric stress of some Salix genotypes, in improper stations for agricultural crops – SAROSWE](/lucrari/2015/SAROSWE poster EUROINVENT 2015 Iasi.pdf)
 
 5. WORKSHOP - Evaluarea potenţialului productiv, de fitoremediere şi adaptabilitate la stresul hidric, a unor genotipuri de Salix, în staţiuni improprii culturilor agricole,  Facultatea de Agronomie Craiova, Aula Buia, Vineri, 13.11.2015 in cadrul International Scientific Symposium SUSTAINABLE DEVELOPMENT IN AGRICULTURE AND HORTICULTURE-Third edition-12-13 November 2015, Craiova, Romania [pliant](/lucrari/2015/pliant SAROSWE 2015 final.pdf)
  1. Corneanu Mihaela, Hernea Cornelia, Sărac Ioan, Poșta Daniela Sabina- Evaluarea preliminară a genitorilor de Salix sp. în primul sezon de vegetație
@@ -62,8 +62,8 @@ De asemenea domnul Hollerbach cu acest prilej a vizitat si loturi de culturi inf
 ## Participari la manifestări  stiinţifice 2014
 
 * Sesiunea  Ştiinţifică Anuală a Facultăţii de Biologie, Universitatea A. I Cuza Iaşi, 23 – 25 noiembrie 2014
- * [Plants Tolerance To Heavy Metals (Cd, Ni, Pb) – Case Study Salix sp. -  Corneanu Mihaela, Hernea Cornelia, Corneanu Gabriel, Sărac Ioan, Hollerbach Wilhelm, Neţoiu Constantin, Petcov Andreea Adriana](/lucrari/2014/Corneanu Salix sp Iasi 2014.pdf)
- * [Ultrastructural features of the leaves in some Salix genotypes, and resistance to environment stress factors -  Corneanu Gabriel, Corneanu Mihaela, Craciun Constantin, Tripon Septimiu](/lucrari/2014/Corneanu, Iasi, Biologie 2014.pdf)
+ * [Plants Tolerance To Heavy Metals (Cd, Ni, Pb) – Case Study Salix sp.](/lucrari/2014/Corneanu Salix sp Iasi 2014.pdf) -  Corneanu Mihaela, Hernea Cornelia, Corneanu Gabriel, Sărac Ioan, Hollerbach Wilhelm, Neţoiu Constantin, Petcov Andreea Adriana
+ * [Ultrastructural features of the leaves in some Salix genotypes, and resistance to environment stress factors](/lucrari/2014/Corneanu, Iasi, Biologie 2014.pdf) -  Corneanu Gabriel, Corneanu Mihaela, Craciun Constantin, Tripon Septimiu
 
 Lucrarile predate pentru publicare in  Analele Stiintifice ale Universitatii "Alexandru Ioan Cuza" din Iasi Sec. II a. Genetica si Biologie Moleculara ( B+)
 
