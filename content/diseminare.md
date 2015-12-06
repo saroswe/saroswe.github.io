@@ -26,7 +26,7 @@ nodate = true
  * Hernea Cornelia, Trava Ion-Danut, Borlea Gheorghe Florian - [Biomass production of some swedish willow hybrids on the west of Romania. A case study. –poster](/lucrari/2015/POSTER Hernea_Salix_FHS_2015.pdf)
 
 2. The 14th International Symposium 'Prospects for the 3rd Millennium Agriculture', September 24th-26th 2015, Cluj – Napoca, Romania
- * Mihaela CORNEANU, Sorina - Domnica POPESCU* and Cornelia HERNEA - [the molecular polymorphism evaluation in Salix sp. Romanian accessions – preliminary results. – poster](/lucrari/2015/poster USAMV Cluj 2015.pdf)
+ * Mihaela CORNEANU, Sorina - Domnica POPESCU* and Cornelia HERNEA - [The molecular polymorphism evaluation in Salix sp. Romanian accessions – preliminary results. – poster](/lucrari/2015/poster USAMV Cluj 2015.pdf)
  * Cornelia HERNEA, Willhelm HOLLERBACH, Danut TRAVA, Mihaela CORNEANU - [The Behaviour for SRC Willow Inger in Experimental Trial Ghilad, Romania - oral](http://journals.usamvcluj.ro/index.php/horticulture/article/view/11657)
 
 3. International Scientific Symposium SUSTAINABLE DEVELOPMENT IN AGRICULTURE AND HORTICULTURE-Third edition-12-13 November 2015, Craiova, Romania
