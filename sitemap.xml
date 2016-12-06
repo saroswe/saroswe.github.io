@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.saroswe.ro/diseminare/</loc>
+    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.saroswe.ro/post/workshop2016/</loc>
     <lastmod>2016-12-06T10:11:50+02:00</lastmod>
   </url>
@@ -32,11 +37,6 @@
   </url>
   
   <url>
-    <loc>http://www.saroswe.ro/diseminare/</loc>
-    <lastmod>2014-11-29T10:55:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.saroswe.ro/rezultate-preconizate/</loc>
     <lastmod>2014-11-29T10:55:35+02:00</lastmod>
   </url>
@@ -58,13 +58,13 @@
   
   <url>
     <loc>http://www.saroswe.ro/tags/diseminare/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.saroswe.ro/categories/diseminare/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,7 +129,7 @@
   
   <url>
     <loc>http://www.saroswe.ro/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
