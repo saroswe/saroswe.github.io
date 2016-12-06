@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Echipes on saroswe</title>
-    <link>http://www.saroswe.ro/echipe/</link>
+    <link>http://www.saroswe.ro/echipe/index.xml</link>
     <description>Recent content in Echipes on saroswe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>saroswe</copyright>
     <lastBuildDate>Mon, 01 Dec 2014 16:34:45 +0200</lastBuildDate>
     <atom:link href="http://www.saroswe.ro/echipe/index.xml" rel="self" type="application/rss+xml" />
     
