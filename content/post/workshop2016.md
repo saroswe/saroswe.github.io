@@ -28,4 +28,4 @@ lightbox = true
 
 * [Afis](/lucrari/2016/workshop/afis workshop.pdf)
 * [Prezentare 25 mai 2016](/lucrari/2016/workshop/Corneanu prezentare SAROSWE 25 mai 2016.pdf)
-* [Pliant](/lucrari/2016/workshop/afis workshop.pdf)
+* [Pliant](/lucrari/2016/workshop/pliant SAROSWE 2016.pdf)

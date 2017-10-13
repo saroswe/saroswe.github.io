@@ -2,12 +2,89 @@
 Description = ""
 Categories = ["diseminare"]
 Tags = ["diseminare"]
-date = "2016-12-06T10:55:35+02:00"
+date = "2017-10-13T10:55:35+02:00"
 title = "diseminare"
 nodate = true
 [menu.main]
     weight =  20
 +++
+
+## Participari la manifestări  stiinţifice 2017
+
+### WP 6 (D1, D2, D3): Diseminarea rezultatelor (CO, P1, P2, P3).
+### A4.23 D1 Diseminare rezultate; comunicare si publicare nationala si/sau internationala
+
+#### I. Lucrări tipărite
+#### ISI proceedings
+
+1. Soare Marin, Iancu Paula, Panita Ovidiu, Soare Rodica, Bonciu Elena, [Researches concerning the possibility of cultivating energetic wilow on deposit of ash from thermal power station](/lucrari/2017/SGEM_2017_Soare.pdf), 17th International Multidisciplinary Scientific Geoconference, SGEM 2017, Proceedings Vol. 17, Energy and Clean Technologies, Issue 42, pp. 519-528. https://doi.org/10.5593/sgem2017/42
+2.  Cristina Babeanu, Marin Soare, Mihaela Corneanu, Madalina Dragoi, [Effects of drought stress on some oxidoreductase enzymes and proline content in leaves of Salix genotipes](/lucrari/2017/SGEM_2017_Babeanu.pdf), 17th International Multidisciplinary Scientific Geoconference, SGEM 2017, Proceedings Vol. 17, Nano Bio, Green and Space – Technologies for a Suitable Future, Issue 42, pp. 665- 670. https://doi.org/10.5593/sgem2017/42
+
+#### BDI
+
+1. Hernea Cornelia, Corneanu Mihaela, Sarac Ioan, Turcu Emil- The potential of romanian and swedish willow for short rotation coppice. A comparative analyze in the Banat plain, South-west J Hortic Biol Environ 7(2): 115-126. (dec 2016) http://biozoojournals.ro/swjhbe/v7n2/02_swjhbe_v7n2_Hernea.pdf
+2. Hernea Cornelia, Corneanu Mihaela, Netoiu C.., Sarac I- Pest and diseasses in willow plantation. A case study from Didactic Station Timisoara, JOURNAL of Horticulture, Forestry and Biotechnology 20(3): 87-90   (dec 2016) http://journal-hfb.usab-tm.ro/romana/2016/Lucrari%20PDF/Vol%2020(3)%20PDF/19Hernea%20Cornelia.pdf
+3. C Hernea, M Corneanu, I Sarac, I Petrescu, The behavior of willow commercial clones in the first growing season. A case study for three different sites from Banat area, Annals of the University of Craiova-Agriculture, Montanology, Cadastre Series 46 (2): 622-627, (febr. 2017)
+http://anale.agro-craiova.ro/index.php/aamc/article/view/518
+4. Hernea Cornelia, Corneanu Mihaela, Babeanu Cristina.., Sarac I - Effect of NaCl on willow hidroponyc experiment – JOURNAL of Horticulture, Forestry and Biotechnology 21(1): 41-46, (sept 2017) http://www.journal-hfb.usab-tm.ro/2017/Lucrari%20PDF21(1)/07Hernea%20Cornelia.pdf
+
+
+#### Cărţi
+
+1.Ghid practic de determinare a insectelor vătămătoare din culturile de salcie energetică, 100pp
+Editura EUROBIT Timisoara, 2017, ISBN 978-973-132-411-1
+Ed. Neţoiu Constantin, Corneanu Mihaela, Hernea Cornelia
+Autori: Neţoiu Constantin, Corneanu Mihaela, Hernea Cornelia, Buzatu Andrei, Fericean Mihaela
+Ghidul cuprinde modalitati practice de determinare a principalelor specii de insecte dupa tipul de vatamare si aspecte morfologice in diferite stadii de dezvoltare.
+
+2.Salix sp.- perspective de cultivare pentru biomasa si fitoremediere in Romania, 200 pp
+Editura EUROBIT Timisoara, 2017, ISBN 978-973-132-412-8
+Ed. Corneanu Mihaela, Hernea Cornelia, Hollerbach Wilhelm, Soare Marin, Neţoiu Constantin
+Autori: Corneanu Mihaela. Hernea Cornelia, Sarac Ioan, Stroia Ciprian – USAMVB „Regele Mihai I al Romaniei” din Timisoara; Hollerbach Wilhelm, Mos Cornelia, Trava Danut – SC Rebina Agrar SRL Ghilad; Soare Marin, Bonciu Elena, Iancu Paula, Panita Ovidiu, Soare Rodca – Universitatea din Craiova; Netoiu Constantin, Buzatu Andrei, Tomescu Romica – INCDS „Marin Dracea” Bucuresti
+Cartea cuprinde situatia culturii speciilor de Salix pe plan mondial si national, elemente de tehnologie si protectie elaborate si verificate practic in proiectul de cercetare 111/2014 SAROSWE (2014-2017), precum si perspective de ameliorare a clonelor certificate in prezent prin infuzie
+
+
+#### II. Comunicarea rezultatelor cercetării
+
+![NoviSad_2017](/photos/2017/NoviSad_2017.jpg "Novi Sad, Serbia 2017")
+
+1. 17th International Scientific GeoConference SGEM 2017
+
+	1.1 Marin Soare, Paula Iancu, Ovidiu Panita, Rodica Soare, Elena Bonciu - Researches concerning the possibility of cultivating energetic willow on deposit of ash from thermal power stations
+
+	1.2 Cristina Babeanu, Marin Soare, Mihaela Corneanu, Madalina Dragoi - Effects of drought stress on some oxidoreductase enzymes and proline content in leaves of salix genotypes
+
+2. Simpozionul științific cu participare internațională “ 15 years of Forestry education academic in the Banat area"”, 25-26 Mai, Timişoara
+Hernea Cornelia, Corneanu Mihaela, Babeanu Cristina.., Sarac I - Effect of NaCl on willow hidroponyc experiment – poster
+3. The 16th International Symposium Prospects for the 3rd Millennium Agriculture, Cluj-Napoca Romania, 2017
+Marin Soare, Paula Iancu, Elena Bonciu, Ion Nicolae, Luminita Buse Dragomir, Ovidiu Florin Panita, Evaluation of hydric stress tolerance to some Salix spp. Genotypes - poster
+4. Actualizare pagina WEB
+
+**A4.24 D.2 - Participare la manifestari tehnico-stiintifice din domeniii specifice proiectului (mese rotunde, workshopuri, simpozioane nationale /internationale, targuri nationale/ internationale)**
+
+[Premiu: Medalia aur EUROINVENT](/lucrari/2017/Medalia aur EUROINVENT 2017.pdf)
+
+1. 8th European Exhibition Of Creativity and Innovation, EUROINVENT, 25-27 May 2017, Iasi – Romania Premiu: Medalia de aur
+Corneanu Mihaela, Hernea Cornelia, Hollerbach Wilhelm, Babeanu Cristina, Corneanu Gabriel, Soare Marin, Neţoiu Constantin - The tolerance of willows  to contaminated soils in field (coal ash deposit) and laboratory trials   - PN II 111/2014 Evaluation of the productive potential, the capacity of phytoremediation and adaptability to the hydric stress of some Salix genotypes, in improper stations for agricultural crops
+2. Targul de Inovatii si Inventii din cadrul 84th International Agricultural Fair, 13th-19th May 2017, Novi Sad, Serbia
+Premiu: Diploma de Aur, acordat de Serbian  Academy  of  Inventors  and  Scientists, 18.05.2017
+Corneanu Mihaela, Hernea Cornelia, Sărac Ioan - Salix sp. short rotation coppice on ash deposits
+
+3. WORKSHOP – Culturi de salcie cu ciclu scurt de rotatie – sursa de energie regenerabila – rezultate parţiale ale proiectului PN II “Evaluarea potenţialului productiv, de fitoremediere şi adaptabilitate la stresul hidric a unor genotipuri de Salix, în staţiuni improprii culturilor agricole (SAROSWE)”, 24.05.2017 USAMVB Timisoara, in cadrul manifestărilor din Săptămâna Academică Timişoreană. La Workshop au participat 27 de invitaţi, cercetători, cadre didactice şi studenţi.
+
+	1) SAROSWE – genotipuri de Salix sp. pentru culturi cu ciclu scurt de rotație
+	Corneanu Mihaela, Hernea Cornelia, Hollerbach Wilhelm Soare Marin, Nețoiu Constantin
+
+	2) Genitori de salcie din cultura comparativa a SDE Timisoara
+	Sărac Ioan, Corneanu Mihaela, Hernea Cornelia
+
+	3) Studiul comparativ al clonelor de salcie sub aspectul productie de biomasa
+	Hernea Cornelia, Corneanu Mihaela,  Sărac Ioan
+
+	4) Comportamentul clonelor de salcie cultivate pe soluri nisipoase din sudul Olteniei.
+	Soare Marin, Paniță Ovidiu, Iancu Paula, Bonciu Elena, Soare Rodica
+
+**A3.25 D.3 - Vizite de lucru / schimburi de buna practicaRomania** – Dej, Zalau: Vizita de lucru: Participare negocieri extindere piata de biomasa din salcie energetica; TimisoaraExpozitia Tim Agralim 2017; Germania – Ingelfingen: expozitie;
 
 
 ## Participari la manifestări  stiinţifice 2016
