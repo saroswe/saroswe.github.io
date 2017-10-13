@@ -3,7 +3,17 @@
   
   <url>
     <loc>http://www.saroswe.ro/diseminare/</loc>
-    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
+    <lastmod>2017-10-13T10:55:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.saroswe.ro/post/workshop2017/</loc>
+    <lastmod>2017-10-13T10:11:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.saroswe.ro/post/rezumat_rst/</loc>
+    <lastmod>2017-10-12T16:01:50+02:00</lastmod>
   </url>
   
   <url>
@@ -58,13 +68,13 @@
   
   <url>
     <loc>http://www.saroswe.ro/tags/diseminare/</loc>
-    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
+    <lastmod>2017-10-13T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.saroswe.ro/categories/diseminare/</loc>
-    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
+    <lastmod>2017-10-13T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,7 +86,7 @@
   
   <url>
     <loc>http://www.saroswe.ro/tags/foto/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2017-10-13T10:11:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,7 +104,19 @@
   
   <url>
     <loc>http://www.saroswe.ro/post/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2017-10-13T10:11:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.saroswe.ro/categories/rapoarte/</loc>
+    <lastmod>2017-10-12T16:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.saroswe.ro/tags/raport/</loc>
+    <lastmod>2017-10-12T16:01:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,24 +134,25 @@
   
   <url>
     <loc>http://www.saroswe.ro/tags/</loc>
+    <lastmod>2017-10-13T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.saroswe.ro/tags/workshop/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2017-10-13T10:11:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.saroswe.ro/categories/workshop/</loc>
-    <lastmod>2016-12-06T10:11:50+02:00</lastmod>
+    <lastmod>2017-10-13T10:11:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.saroswe.ro/</loc>
-    <lastmod>2016-12-06T10:55:35+02:00</lastmod>
+    <lastmod>2017-10-13T10:55:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on saroswe</title>
+    <link>http://www.saroswe.ro/categories/</link>
+    <description>Recent content in Categories on saroswe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>saroswe</copyright>
+    
+	<atom:link href="http://www.saroswe.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diseminare</title>
+      <link>http://www.saroswe.ro/categories/diseminare/</link>
+      <pubDate>Fri, 13 Oct 2017 10:55:35 +0200</pubDate>
+      
+      <guid>http://www.saroswe.ro/categories/diseminare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parteneri</title>
+      <link>http://www.saroswe.ro/categories/parteneri/</link>
+      <pubDate>Mon, 01 Dec 2014 16:34:45 +0200</pubDate>
+      
+      <guid>http://www.saroswe.ro/categories/parteneri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapoarte</title>
+      <link>http://www.saroswe.ro/categories/rapoarte/</link>
+      <pubDate>Thu, 12 Oct 2017 16:01:50 +0200</pubDate>
+      
+      <guid>http://www.saroswe.ro/categories/rapoarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rezultate</title>
+      <link>http://www.saroswe.ro/categories/rezultate/</link>
+      <pubDate>Sat, 29 Nov 2014 10:55:35 +0200</pubDate>
+      
+      <guid>http://www.saroswe.ro/categories/rezultate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>http://www.saroswe.ro/categories/workshop/</link>
+      <pubDate>Fri, 13 Oct 2017 10:11:50 +0200</pubDate>
+      
+      <guid>http://www.saroswe.ro/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

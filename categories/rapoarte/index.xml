@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rapoarte on saroswe</title>
+    <link>http://www.saroswe.ro/categories/rapoarte/</link>
+    <description>Recent content in Rapoarte on saroswe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>saroswe</copyright>
+    <lastBuildDate>Thu, 12 Oct 2017 16:01:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.saroswe.ro/categories/rapoarte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RAPORTUL ŞTIINŢIFIC ŞI TEHNIC (RST)</title>
+      <link>http://www.saroswe.ro/post/rezumat_rst/</link>
+      <pubDate>Thu, 12 Oct 2017 16:01:50 +0200</pubDate>
+      
+      <guid>http://www.saroswe.ro/post/rezumat_rst/</guid>
+      <description>Proiectul 111&amp;frasl;2014: Evaluarea potenţialului productiv, de fitoremediere şi adaptabilitate la stresul hidric, a unor genotipuri de Salix, în staţiuni improprii culturilor agricole – SAROSWE Etapa 4&amp;frasl;2017: Caracterizarea genotipurilor de Salix sp. din punct de vedere al tolerantei la stresul hidric, al capacitatii de fitoremediere si rezistentei la boli si daunatori Rezumat WP 1 (A4): Evaluarea potenţialului productiv la genotipuri de Salix în condiţii staţionale diferite (7 RO + 7 SWE/7 locaţii – Banat- control, sărătură, MG; Oltenia – control, nisip irigat, nisip neirigat, MG) (CO, P1, P2).</description>
+    </item>
+    
+  </channel>
+</rss>
