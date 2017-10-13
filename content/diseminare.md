@@ -17,16 +17,15 @@ nodate = true
 #### I. Lucrări tipărite
 #### ISI proceedings
 
-1. Soare Marin, Iancu Paula, Panita Ovidiu, Soare Rodica, Bonciu Elena, [Researches concerning the possibility of cultivating energetic wilow on deposit of ash from thermal power station](/lucrari/2017/SGEM_2017_Soare.pdf), 17th International Multidisciplinary Scientific Geoconference, SGEM 2017, Proceedings Vol. 17, Energy and Clean Technologies, Issue 42, pp. 519-528. https://doi.org/10.5593/sgem2017/42
-2.  Cristina Babeanu, Marin Soare, Mihaela Corneanu, Madalina Dragoi, [Effects of drought stress on some oxidoreductase enzymes and proline content in leaves of Salix genotipes](/lucrari/2017/SGEM_2017_Babeanu.pdf), 17th International Multidisciplinary Scientific Geoconference, SGEM 2017, Proceedings Vol. 17, Nano Bio, Green and Space – Technologies for a Suitable Future, Issue 42, pp. 665- 670. https://doi.org/10.5593/sgem2017/42
+1. Soare Marin, Iancu Paula, Panita Ovidiu, Soare Rodica, Bonciu Elena, [Researches concerning the possibility of cultivating energetic wilow on deposit of ash from thermal power station](/lucrari/2017/SGEM_2017_Soare.pdf), 17th International Multidisciplinary Scientific Geoconference, SGEM 2017, Proceedings Vol. 17, Energy and Clean Technologies, [Issue 42, pp. 519-528](https://doi.org/10.5593/sgem2017/42).
+2.  Cristina Babeanu, Marin Soare, Mihaela Corneanu, Madalina Dragoi, [Effects of drought stress on some oxidoreductase enzymes and proline content in leaves of Salix genotipes](/lucrari/2017/SGEM_2017_Babeanu.pdf), 17th International Multidisciplinary Scientific Geoconference, SGEM 2017, Proceedings Vol. 17, Nano Bio, Green and Space – Technologies for a Suitable Future, [Issue 42, pp. 665- 670](https://doi.org/10.5593/sgem2017/42).
 
 #### BDI
 
-1. Hernea Cornelia, Corneanu Mihaela, Sarac Ioan, Turcu Emil- The potential of romanian and swedish willow for short rotation coppice. A comparative analyze in the Banat plain, South-west J Hortic Biol Environ 7(2): 115-126. (dec 2016) http://biozoojournals.ro/swjhbe/v7n2/02_swjhbe_v7n2_Hernea.pdf
-2. Hernea Cornelia, Corneanu Mihaela, Netoiu C.., Sarac I- Pest and diseasses in willow plantation. A case study from Didactic Station Timisoara, JOURNAL of Horticulture, Forestry and Biotechnology 20(3): 87-90   (dec 2016) http://journal-hfb.usab-tm.ro/romana/2016/Lucrari%20PDF/Vol%2020(3)%20PDF/19Hernea%20Cornelia.pdf
-3. C Hernea, M Corneanu, I Sarac, I Petrescu, The behavior of willow commercial clones in the first growing season. A case study for three different sites from Banat area, Annals of the University of Craiova-Agriculture, Montanology, Cadastre Series 46 (2): 622-627, (febr. 2017)
-http://anale.agro-craiova.ro/index.php/aamc/article/view/518
-4. Hernea Cornelia, Corneanu Mihaela, Babeanu Cristina.., Sarac I - Effect of NaCl on willow hidroponyc experiment – JOURNAL of Horticulture, Forestry and Biotechnology 21(1): 41-46, (sept 2017) http://www.journal-hfb.usab-tm.ro/2017/Lucrari%20PDF21(1)/07Hernea%20Cornelia.pdf
+1. [Hernea Cornelia, Corneanu Mihaela, Sarac Ioan, Turcu Emil- The potential of romanian and swedish willow for short rotation coppice. A comparative analyze in the Banat plain, South-west J Hortic Biol Environ 7(2): 115-126. (dec 2016)](http://biozoojournals.ro/swjhbe/v7n2/02_swjhbe_v7n2_Hernea.pdf)
+2. [Hernea Cornelia, Corneanu Mihaela, Netoiu C.., Sarac I- Pest and diseasses in willow plantation. A case study from Didactic Station Timisoara, JOURNAL of Horticulture, Forestry and Biotechnology 20(3): 87-90 (dec 2016)](http://journal-hfb.usab-tm.ro/romana/2016/Lucrari%20PDF/Vol%2020(3)%20PDF/19Hernea%20Cornelia.pdf)
+3. [C Hernea, M Corneanu, I Sarac, I Petrescu, The behavior of willow commercial clones in the first growing season. A case study for three different sites from Banat area, Annals of the University of Craiova-Agriculture, Montanology, Cadastre Series 46 (2): 622-627, (febr. 2017)](http://anale.agro-craiova.ro/index.php/aamc/article/view/518)
+4. [Hernea Cornelia, Corneanu Mihaela, Babeanu Cristina.., Sarac I - Effect of NaCl on willow hidroponyc experiment – JOURNAL of Horticulture, Forestry and Biotechnology 21(1): 41-46, (sept 2017)](http://www.journal-hfb.usab-tm.ro/2017/Lucrari%20PDF21(1)/07Hernea%20Cornelia.pdf)
 
 
 #### Cărţi
